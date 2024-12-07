@@ -30,7 +30,7 @@ This is a simple weather application built using React. It allows users to searc
 
 To run the WeatherApp locally, follow these steps:
 
-1. Clone the repository: `https://github.com/its-kumar-yash/react-weather-app.git`
+1. Clone the repository: `https://github.com/shivam-kumar9140/react-weather-app.git`
 2. Navigate to the project directory: `cd react-weather-app`
 3. Install the dependencies: `npm install`
 4. Create a free account on OpenWeatherMap to obtain an API key.
